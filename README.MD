@@ -24,7 +24,7 @@ Python 3.12 · SerpAPI (Google Flights) · Sheety (Google Sheets as API)
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/flight-deal-tracker
+git clone https://github.com/Noan-abidostricot/flight-deal-tracker.git
 cd flight-deal-tracker
 pip install -r requirements.txt
 ```
